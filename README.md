@@ -1,4 +1,4 @@
-#Machine Vision Week 1 Assignment
+Machine Vision Week 1 Assignment
 Task A:
 - Image processing using OpenCV
 - Converted image to Gray
