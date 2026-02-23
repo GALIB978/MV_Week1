@@ -10,5 +10,5 @@ Task B:
 - Annotated detected objects
 
 All code runs using:
-python task-a.py
-python task-b2.py
+- python task-a.py
+- python task-b2.py
