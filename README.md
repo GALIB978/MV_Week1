@@ -1,7 +1,7 @@
 # Machine Vision – Week 1 Assignment
 
 **Name:** Galib Bin Mahamud  
-**Date:** 2026-04-05  
+**Date:** 2026-03-28  
 
 This repository contains my solutions for the Week 1 Machine Vision assignment using **OpenCV** and **RoboDK**.
 
@@ -66,7 +66,7 @@ Run the following commands:
 ```bash
 python task-a.py
 python task-b2.py
-
+```
 ---
 
 ## Requirements
@@ -77,3 +77,12 @@ To install the required packages, run:
 
 ```bash
 pip install -r requirements.txt
+```
+---
+## Findings and Learning Experience
+
+- Learned difference between BGR and RGB
+- Understood RGB channel separation  
+- Used HSV color space for object detection  
+- Applied contour detection to identify objects  
+- Learned image annotation using OpenCV
