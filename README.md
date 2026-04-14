@@ -88,7 +88,6 @@ pip install -r requirements.txt
 - Learned image annotation using OpenCV
 
 ---
-
 ## Lab Report
 
-[View Lab Report](./Machine_Vision_Report.pdf)
+[View Lab Report](./Machine_Vision_Week_1_Lab_Report.pdf)
