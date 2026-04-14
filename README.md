@@ -86,3 +86,9 @@ pip install -r requirements.txt
 - Used HSV color space for object detection  
 - Applied contour detection to identify objects  
 - Learned image annotation using OpenCV
+
+---
+
+## Lab Report
+
+[View Lab Report](./Machine_Vision_Report.pdf)
